@@ -1,0 +1,257 @@
+Report created: 
+	11/14/2025	4:11:28 PM
+
+Project name: مشروع قرارك ينقذهم (converted) copy 23.x (converted).aep
+
+Source files collected to: 
+	C:\Users\Graphic\Downloads\قرارك ينقذهم ايمان لوجو\قرارك ينقذهم مجمع ايمان
+
+Source files collected: All
+
+Collected comps:  
+	مشهد الاول في المشروع
+	المشهد
+	مشهد الاول
+	boy side
+	Pre-comp 1
+	المشهد 2
+	موج
+	bird2
+	black car back
+	black car front
+	father side
+	mother side
+	المشهد الاول 
+	4 copy
+	موج
+	blue bird
+	سحاب
+	المشهد الثاني2
+	boy side
+	boy side 3
+	blue car
+	blue car front
+	boat
+	grey car front
+	red car
+	red car front
+	father side
+	father side 3
+	father side 3
+	father side sad
+	boy side 3
+	boy side 3
+	mother side
+	mother side 3
+	mother side copy
+	Pre-comp 1
+	المشهد الاول 
+	سحاب
+	مشهد سادس
+	المشهد 3
+	موج
+	قرارك ينقذهم
+	boy side 2
+	father side 2
+	mother side 2
+	father side sad
+	المشهد الثاني
+	المشهد الثاني2
+	mother side 3
+	Pre-comp 1
+	مشهد الاول
+	مشهد الاول في المشروع
+	مشهد سادس
+	موج
+	موج
+	mother side copy 2
+	father side 4
+	boy side 4
+	boy side 2
+	car
+	dd
+	driver
+	father side
+	mother side 2
+	Pre-comp 1
+	Pre-comp 2
+	الطريق الوسط Comp 1
+	1081247_107536-ONIOM3-512
+	1081247_107536-ONIOM3-513
+	1350837_183087-OX83DN-32
+	cha side 2
+	final
+	1081247_107536-ONIOM3-512
+	1081247_107536-ONIOM3-513
+	boy front
+	father front
+	final project
+	man side
+	mother front
+	side 2
+	مشهد الثالث
+	موج
+	موج
+	موج
+	موج
+	1350837_183087-OX83DN-32
+	cha side 2
+	final project 2
+	final
+	logo team
+	father side 5
+	boy side 5
+	mother side copy 3
+	Pre-comp 1
+	فويس اوفر
+	boy front
+	father front
+	intro
+	final project
+	man side
+	mother front
+	side 2
+	مشهد الثالث
+	zafta
+	موج
+	موج
+	موج
+	موج
+	قرارك لوجو
+	team logo
+	
+Number of collected files:  91
+
+Size of collected files:  52.7 MB
+
+Collected source files: 
+	C:\Users\Graphic\Downloads\logo teem folder\logo teem folder\(Footage)\AC Audio\Click Keyboard 03.wav
+	C:\Users\Graphic\Downloads\logo teem folder\logo teem folder\(Footage)\AC Audio\Pop Mouth 06.wav
+	C:\Users\Graphic\Downloads\logo teem folder\logo teem folder\(Footage)\AC Audio\Swoosh Wood Single 02.wav
+	C:\Users\Graphic\Downloads\logo teem folder\logo teem folder\(Footage)\logo team Layers\logo team.ai
+	C:\Users\Graphic\Downloads\قرارك لوجو.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\1081247_107536-ONIOM3-512 Layers\1081247_107536-ONIOM3-512.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\1350837_183087-OX83DN-32 Layers\1350837_183087-OX83DN-32.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\cha side 2 Layers\cha side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\sounds\Car Passing By - Sound Effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\sounds\Sea Waves - Sound Effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\sounds\Sound Effect - Crowd - Talking outside.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\boy front Layers\boy front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\father front Layers\father front .ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\man side Layers\man side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\mother front Layers\mother front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\side 2 Layers\side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\مشهد الاول في المشروع.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\ahmed.aep\مشهد ثالث\مشهد الثالث Layers\مشهد الثالث.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Bird Chirping   Sound Effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Cinematic Trailer Whoosh Hit  Sound Effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\cover-01.jpg
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\1081247_107536-ONIOM3-512 Layers\1081247_107536-ONIOM3-512.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\1350837_183087-OX83DN-32 Layers\1350837_183087-OX83DN-32.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\cha side 2 Layers\cha side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\sounds\Car Passing By - Sound Effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\sounds\Sea Waves - Sound Effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\sounds\Sound Effect - Crowd - Talking outside.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\boy front Layers\boy front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\father front Layers\father front .ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\man side Layers\man side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\mother front Layers\mother front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\side 2 Layers\side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\مشهد الاول في المشروع.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\مشهد الثالث Layers\zafta Layers\zafta.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\donia.aep\مشهد ثالث\مشهد الثالث Layers\مشهد الثالث.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\father side Layers\father side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\logo.png
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\POP UP SOUND EFFECT __ SOUND FX#popup [VJ-_sA9KTZg].mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\proAr.png
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Typewriter Electric Electric Typewriter Slow Typing with Carriage Return Typewriters.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\4 copy Layers\4 copy.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\4 copy.mp4
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\4.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\boy side 2 Layers\boy side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\car-crash-382137.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\car-driving-ambience-6365.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\dd Layers\dd.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\driver Layers\driver.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\father side Layers\father side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Untitled Project.aep\mother side 2 Layers\mother side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Walking on Sand Sound Effect  100 Royalty Free  No Copyright.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\Whoosh Sounds effects No copyright.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهد الثاني Layers\المشهد الثاني.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهد السادس\ai\boy side Layers\boy side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهد السادس\ai\mother side Layers\mother side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهد السادس\father side sad Layers\father side sad.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\Comp-1_00000.png
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\bird2 Layers\bird2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\black car back Layers\black car back.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\black car front Layers\black car front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\blue bird Layers\blue bird.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\blue car front Layers\blue car front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\blue car Layers\blue car.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\boat Layers\boat.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\boy side 3 Layers\boy side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\father side 3 Layers\father side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\grey car front Layers\grey car front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\mother side 3 Layers\mother side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\mother side copy Layers\mother side copy.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\red car front Layers\red car front.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\red car Layers\red car.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\المشهدين الرابع والخامس\layers\المشهد Layers\المشهد.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\صوت  (شحط بريك ) سيارة للمونتاج.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\صوت ضوضاء الشارع [cmcaH_SeQPU].mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\صورة النفق.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\صورة اليافطة.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\فويس 1.m4a
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\boy side 2 Layers\boy side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\boy side Layers\boy side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\father side 2 Layers\father side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\father side Layers\father side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\mother side 2 Layers\mother side 2.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\mother side Layers\mother side.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\ai\مشهد الاول في المشروع Layers\مشهد الاول في المشروع.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\Beach-waves-sound-effect.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\father side copy sad Layers\father side copy sad.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\father side sad Layers\father side sad.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\sound\man-panting-softly-401018.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\sound\اطفال شاطئ.mp3
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشروع قرارك ينقذهم.aep\المشهد الثاني Layers\المشهد الثاني.ai
+	C:\Users\Graphic\Downloads\مشاهد قرارك ينقذهم\(Footage)\مشهد الاول في المشروع Layers\مشهد الاول في المشروع.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  14
+
+Effect:  
+	
+Effect:  Angle Control
+	
+Effect:  Checkbox Control
+	
+Effect:  DUIK_One_Layer_IK
+	
+Effect:  DUIK_Two_Layer_IK
+	
+Effect:  Fast Box Blur
+	
+Effect:  Gaussian Blur (Legacy)
+	
+Effect:  Layer Control
+	
+Effect:  Personality
+	
+Effect:  Point Control
+	
+Effect:  Puppet
+	
+Effect:  Slider Control
+	
+Effect:  Solid Composite
+	
+Effect:  Transform
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Snap ITC”, Font style: “Regular”
+
